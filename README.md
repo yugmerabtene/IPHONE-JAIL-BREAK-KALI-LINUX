@@ -1,5 +1,3 @@
-Here's a restructured version of the provided instructions:
-
 1. Begin by utilizing the Checkra1n jailbreak tool.
 2. Establish a tunnel to SSH into your Apple device via USB using iproxy. This can be achieved by specifying the address as 2222 and most likely using port 44 or 22. (Example: iproxy 2222 44)
 3. SSH into your device through the created tunnel. Use the command: ssh root@localhost -p 2222. If prompted for a password, the default could be 'alpine'.
